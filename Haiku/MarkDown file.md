@@ -1,0 +1,2 @@
+## MarkDown
+- Since I used to live in Japan, I am familiar with Haiku. For this recording I chose a very famous Haiku, "この道や行く人なしに秋の暮". Translated into English, it means "On this way, No one has been going, Autumn twilight". I came up with this Haiku because it's already autumn. To find out how to record it in Japanese I first typed in "say -v ?". I found the code I needed Kyoko to say the Haiku. Then I followed the steps to record the haiku on my desktop. All the process is on the screenshot in the folder.
