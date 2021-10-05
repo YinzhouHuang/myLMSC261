@@ -1,0 +1,2 @@
+## MarkDown
+- I first decompose the 3 into an equation as I talked about in class today, then bring the equation inside print using f-string, and then type it out in its entirety according to \n being a newline and \t being a tab. After completing it in this way I started to think about how it could be done with just one print string. I learned that I could use the str()+ to convert the arithmetic into a string for use, so I tried to finish it in that way.
