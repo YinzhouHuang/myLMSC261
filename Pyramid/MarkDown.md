@@ -3,6 +3,7 @@
 - At first, after referring to the hints on how to write a “for loop”, I started trying to figure out how I could write a pyramid.
 
 - After many attempts I got:
+
 stack = int(input("How tall(1~8) the pyramid should be?"))
 
 for i in range(1,stack+1):
