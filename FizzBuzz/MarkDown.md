@@ -1,6 +1,6 @@
-## MarkDown
+# MarkDown
 
-# At first I thought I needed to use the "for in" command to determine the interval from 1 to 100, and then use the if statement to make the final output work. But I failed, and here is my first attempt.
+### At first I thought I needed to use the "for in" command to determine the interval from 1 to 100, and then use the if statement to make the final output work. But I failed, and here is my first attempt.
 
 - def fizzbuzz(x):
 
@@ -18,7 +18,7 @@
 
         print("Buzz")
 
-# I thought it didn't work because I wasn't sure about the output of x, so I added the "else" statement, but apparently the result wasn't good.
+### I thought it didn't work because I wasn't sure about the output of x, so I added the "else" statement, but apparently the result wasn't good.
 
 - def fizzbuzz(x):
 
@@ -40,7 +40,7 @@
 
        print(x)
 
-# Then, at Rachel's prompting, I looked at the "lovely!" example from class and saw that the code could be done by "count", so I tried to change it. And it seems that I succeeded! But the runtime doesn't start from 1. I think I know what to do.  
+### Then, at Rachel's prompting, I looked at the "lovely!" example from class and saw that the code could be done by "count", so I tried to change it. And it seems that I succeeded! But the runtime doesn't start from 1. I think I know what to do.  
 
 - def fizzbuzz(count):
 
@@ -61,8 +61,8 @@
   else:
 
         print(i)
-        
-# After changing the range I did it! It was a fun process! Here is the final code.
+
+### After changing the range I did it! It was a fun process! Here is the final code.
 
 - def fizzbuzz(count):
 
